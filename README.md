@@ -1,1 +1,1 @@
-# spec-s5-dark-matter
+# Spec-S5 Dark Matter Science
